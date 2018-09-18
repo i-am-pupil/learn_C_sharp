@@ -28,8 +28,8 @@ namespace ConsoleApp5
             var rightTriangle = new RightTriangle(10, 4);
             collection.Add(rectangle);
             collection.Add(rightTriangle);
-            double sum_area = collection.Sum(item => item.GetArea());
-            Console.WriteLine(sum_area);
+            double sumArea = collection.Sum(item => item.GetArea());
+            Console.WriteLine(sumArea);
         }
     }
 }
