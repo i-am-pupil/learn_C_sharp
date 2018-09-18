@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="figures\right_triangle.cs" />
-    <Compile Include="figures\rectangle.cs" />
-    <Compile Include="figures\Interface_figures.cs" />
+    <Compile Include="figures\RightTriangle.cs" />
+    <Compile Include="figures\Rectangle.cs" />
+    <Compile Include="figures\Figures.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
