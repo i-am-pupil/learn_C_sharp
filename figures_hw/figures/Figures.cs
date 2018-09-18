@@ -2,7 +2,7 @@
 
 namespace ConsoleApp5
 {
-    public abstract class Figures
+    public abstract class BaseFigure
     {
         abstract public int GetArea();
     }

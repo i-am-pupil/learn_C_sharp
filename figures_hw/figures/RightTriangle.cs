@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp5
 {
-    public class RightTriangle : Figures
+    public class RightTriangle : BaseFigure
     {
         int _verticalSide;
         int _horizontalSide;

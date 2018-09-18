@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp5
 {
-    public class Rectangle : Figures//прямоугольник
+    public class Rectangle : BaseFigure//прямоугольник
     {
         int _verticalSide;
         int _horizontalSide;

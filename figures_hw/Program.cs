@@ -23,7 +23,7 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
-            List<Figures> collection = new List<Figures>();
+            List<BaseFigure> collection = new List<BaseFigure>();
             var rectangle = new Rectangle(5, 7);
             var rightTriangle = new RightTriangle(10, 4);
             collection.Add(rectangle);
