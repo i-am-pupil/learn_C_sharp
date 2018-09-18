@@ -2,8 +2,8 @@
 
 namespace ConsoleApp5
 {
-    public abstract class BaseFigure
+   interface BaseFigure
     {
-        abstract public int GetArea();
+        int GetArea();
     }
 }
